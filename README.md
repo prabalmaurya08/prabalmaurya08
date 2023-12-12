@@ -9,10 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prabal-maurya-113232244/hackerrankk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prabal-maurya-113232244/hackerrankk" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prabal-maurya-113232244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prabal-maurya-113232244/hackerrankk" height="30" width="40" /></a>
 <a href="https://www.instagram.com/prabal_1502/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/w1th_0ut_m9/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/prabal1513" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/prabal1513" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/prabal001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/prabal001/" height="30" width="40" /></a>
+<a href="https://leetcode.com/prabal001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/prabal001/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/prabalofr8/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prabalofr8/profile" height="30" width="40" /></a>
 </p>
 
