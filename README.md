@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabal Maurya</h1>
-<h3 align="center">🚀 Passionate Mobile App Developer | Flutter & Android (Jetpack Compose) | Python & Django Backend</h3>
+<h3 align="center">🚀 Mobile App Developer | Flutter & Android (Jetpack Compose) | Python & Django Backend</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prabalmaurya08&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -13,18 +13,19 @@
 
 ---
 
-### 🧠 About Me
+### 👋 About Me
 
-- 🎯 Focused on building **clean, scalable, and modern mobile apps**
-- 📱 Developing **Flutter** & **Android (Jetpack Compose)** apps with **MVVM + Clean Architecture**
-- 🔙 Backend experience with **Python**, **Django**, and **REST APIs**
-- 🎨 Passionate about **UI/UX design** and **smooth user experience**
-- 🛠️ Contributor to open-source & passionate lifelong learner
-- 📬 How to reach me: **prabal1513@gmail.com**
+I'm a **Mobile App Developer** passionate about building **clean, scalable, and modern solutions**. My toolkit includes:
+
+* 📱 **Mobile Development:** Flutter, Android (Jetpack Compose), MVVM + Clean Architecture
+* 🐍 **Backend Development:** Python, Django, REST APIs
+* 💡 **Focus Areas:** UI/UX design, smooth user experience, open-source contributions.
+
+Feel free to reach out: **prabal1513@gmail.com**
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/prabal-maurya-113232244/" target="_blank">
@@ -46,9 +47,9 @@
 
 ---
 
-### 💻 Tech Stack
+### 🛠️ My Tech Stack
 
-#### **Languages & Tools**
+#### **Core Technologies**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin"/>
@@ -70,7 +71,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Journey
 
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=prabalmaurya08&show_icons=true&theme=tokyonight" alt="GitHub stats" />
@@ -84,4 +85,4 @@
 
 ---
 
-### 🧩 Let's Build the Future, One App at a Time!
+### Let's Collaborate & Build Something Amazing!
